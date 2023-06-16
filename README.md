@@ -14,7 +14,7 @@ Tutorials for flutter
  The data should be stored in collections.
 
 ```shell
-~ Dart run main.dart
+Dart run main.dart
 Car CRUD operation
 Available Options:
 1. list     - to display the list of cars
