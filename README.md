@@ -11,10 +11,9 @@ Tutorials for flutter
 - update   - to update a car
 - delete   - to delete a car
 
- The data should be stored in collections.
-
+ The data should be stored in collections.</br>
+Example after the project run,
 ```shell
-Dart run main.dart
 Car CRUD operation
 Available Options:
 1. list     - to display the list of cars
